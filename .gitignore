@@ -77,6 +77,10 @@ Thumbs.db
 CMakeCache.txt
 CMakeFiles/
 
+/buck-out/
+/.buckd/
+.buckconfig.local
+
 # Other #
 #########
 .clang_complete

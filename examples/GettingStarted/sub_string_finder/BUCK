@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'sub_string_finder',
+  srcs = [
+    'sub_string_finder.cpp',
+  ],
+  deps = [
+    '//:tbb',
+  ],
+)
